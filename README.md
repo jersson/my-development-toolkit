@@ -24,6 +24,7 @@ If you have any advice, please don't hesitate to fill an issue, or just send me 
   ```
 
 - Improved shell manager: [starship](https://starship.rs/)
+  
   ![](https://raw.githubusercontent.com/starship/starship/master/media/demo.gif)
   ```bash
   $ brew install starship
@@ -35,3 +36,4 @@ If you have any advice, please don't hesitate to fill an issue, or just send me 
   ```
 
 - All-in-one source code editor: [Visual Studio Code](https://code.visualstudio.com/)
+  ![](https://code.visualstudio.com/assets/home/home-screenshot-mac.png)
