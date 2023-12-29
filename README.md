@@ -37,3 +37,9 @@ If you have any advice, please don't hesitate to fill an issue, or just send me 
 
 6. **All-in-one source code editor**: [Visual Studio Code](https://code.visualstudio.com/)
     ![](https://code.visualstudio.com/assets/home/home-screenshot-mac.png)
+
+## Development tools (macOS's long story short)
+You can trust on me, run this command and wait :smile:
+```bash
+$ make install
+```
