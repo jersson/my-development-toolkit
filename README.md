@@ -44,6 +44,5 @@ You can trust on me, run this command and wait :smile:
 $ make install
 ```
 
-:::
-In any case, **please don't forget** to setup the Fira Code Nerd Font (font family and ligatures) in [iTerm2](https://iterm2.com/documentation-fonts.html) and [Visual Studio Code](https://dev.to/owl777/how-to-show-nerd-fonts-in-visual-studio-code-15fd). 
-:::
+### In any case
+**Please don't forget** to setup the Fira Code Nerd Font (font family and ligatures) in [iTerm2](https://iterm2.com/documentation-fonts.html) and [Visual Studio Code](https://dev.to/owl777/how-to-show-nerd-fonts-in-visual-studio-code-15fd). 
