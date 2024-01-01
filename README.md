@@ -70,7 +70,7 @@ $ make terminal-tools
 1. **All-in-one source code editor**: [Visual Studio Code](https://code.visualstudio.com/)
     ![](https://code.visualstudio.com/assets/home/home-screenshot-mac.png)
 
-    You can [trust me](./Makefile), run this command and wait :smile:
+    You can use the [regular way](https://code.visualstudio.com/) or you can [trust me](./Makefile), run this command and wait :smile:
     ```bash
     $ make development-tools
     ```
