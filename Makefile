@@ -1,4 +1,4 @@
-install:
+terminal-tools:
 	make homebrew
 	make iTerm2
 	make nvm
@@ -6,6 +6,9 @@ install:
 	make firacode
 	make ohmyzsh
 	make starship
+	make greetings
+
+development-tools:
 	make vscode
 	make greetings
 

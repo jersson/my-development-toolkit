@@ -7,7 +7,7 @@ MDT is a repo I was thinking a long time ago. Long story short this is something
 If you have any advice, please don't hesitate to [fill an issue](./issues), or just send me a PR :smile: 
 
 
-## Development tools (macOS's version)
+## Terminal tools (macOS's version)
 1. **Terminal**: [iTerm2](https://iterm2.com)
 
 2. **Package manager**: [Homebrew](https://brew.sh)
@@ -59,14 +59,21 @@ If you have any advice, please don't hesitate to [fill an issue](./issues), or j
     eval "$(starship init zsh)"
     ```
 
-8. **All-in-one source code editor**: [Visual Studio Code](https://code.visualstudio.com/)
-    ![](https://code.visualstudio.com/assets/home/home-screenshot-mac.png)
-
-## Development tools (macOS's long story short)
+## Terminal tools (macOS's long story short)
 You can [trust me](./Makefile), run this command and wait :smile:
 ```bash
-$ make install
+$ make terminal-tools
 ```
 
+## Development tools
+
+1. **All-in-one source code editor**: [Visual Studio Code](https://code.visualstudio.com/)
+    ![](https://code.visualstudio.com/assets/home/home-screenshot-mac.png)
+
+    You can [trust me](./Makefile), run this command and wait :smile:
+    ```bash
+    $ make development-tools
+    ```
 ### In any case
 **Please don't forget** to setup the Fira Code Nerd Font (font family and ligatures) in [iTerm2](https://iterm2.com/documentation-fonts.html) and [Visual Studio Code](https://dev.to/owl777/how-to-show-nerd-fonts-in-visual-studio-code-15fd). 
+
