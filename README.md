@@ -74,6 +74,15 @@ $ make terminal-tools
     ```bash
     $ make development-tools
     ```
+
+2. **My default Visual Studio Code extensions**: A curated [list of programming language agnostic extensions](https://github.com/jersson/my-default-code-extensions) I use every day to [improve the editor look & feel](https://github.com/jersson/my-default-code-extensions#1-material-icon-theme), enhance the [git user experience](https://github.com/jersson/my-default-code-extensions#2-gitlens--git-supercharged) and the [docker user experience](https://github.com/jersson/my-default-code-extensions#4-docker) and so on.
+You only need to clone [the repo](https://github.com/jersson/my-default-code-extensions), open it with Visual Studio Code and [trust me](https://github.com/jersson/my-default-code-extensions#how-to-use-it) :smile:
+
+    ```bash
+    $ git clone https://github.com/jersson/my-default-code-extensions
+    ```
+
+ 
 ### In any case
 **Please don't forget** to setup the Fira Code Nerd Font (font family and ligatures) in [iTerm2](https://iterm2.com/documentation-fonts.html) and [Visual Studio Code](https://dev.to/owl777/how-to-show-nerd-fonts-in-visual-studio-code-15fd). 
 
